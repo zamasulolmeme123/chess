@@ -27,4 +27,3 @@ ord[0] - convert str into number, a = 97, so ord[1] (if 1 is e) - ord('a') = 4(s
 
 
 
-
